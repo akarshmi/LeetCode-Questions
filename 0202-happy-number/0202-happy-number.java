@@ -1,27 +1,18 @@
 class Solution {
-     public static boolean isHappy(int n) {
-        return isHappy(n, new HashSet<>());
-    }
-
-    private static boolean isHappy(int n, Set<Integer> seen) {
-        if (n == 1) {
-            return true;
+    public boolean isHappy(int n) {
+        int sum=0;
+        int rem=0;
+        while(n>0){
+           
+            rem=n%10;
+            sum=sum+(rem*rem);
+            n=n/10;
         }
+        if(sum==1)
+        return true;
+        else if(sum>4)
+        return isHappy(sum);
 
-        if (seen.contains(n)) {
-            return false;
-        }
-
-        seen.add(n);
-
-        int currSum = 0;
-
-        while (n > 0) {
-            int digit = n % 10;
-            currSum += digit * digit;
-            n /= 10;
-        }
-
-        return isHappy(currSum, seen);
+        else return false;
     }
 }
