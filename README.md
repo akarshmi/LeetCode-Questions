@@ -17,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/akarshmi/LeetCode-Questions/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/akarshmi/LeetCode-Questions/tree/master/0011-container-with-most-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/akarshmi/LeetCode-Questions/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/akarshmi/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
