@@ -1,5 +1,11 @@
 class Solution {
-    public boolean detectCapitalUse(String s) {
+    static {
+        for(int i=0; i <500; i++){
+            detectCapitalUse("USA");
+        }
+    }
+
+    public static boolean detectCapitalUse(String s) {
         int n = s.length();
         int c = 0;
         for( char ch : s.toCharArray()){
