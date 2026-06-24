@@ -1,4 +1,9 @@
 class Solution {
+    static {
+        for(int i=0; i<500;i++){
+            findTheDifference("lmao","lmaob");
+        }
+    }
     public static char findTheDifference(String s, String t) {
         char s1=0,s2=0;
 
