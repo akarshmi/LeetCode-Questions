@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/akarshmi/LeetCode-Questions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/akarshmi/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/akarshmi/LeetCode-Questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akarshmi/LeetCode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/akarshmi/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/akarshmi/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/akarshmi/LeetCode-Questions/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/akarshmi/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/akarshmi/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/akarshmi/LeetCode-Questions/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/akarshmi/LeetCode-Questions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/akarshmi/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/akarshmi/LeetCode-Questions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/akarshmi/LeetCode-Questions/tree/master/0414-third-maximum-number) |
 ## Counting
