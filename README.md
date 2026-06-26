@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/akarshmi/LeetCode-Questions/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/akarshmi/LeetCode-Questions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/akarshmi/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/akarshmi/LeetCode-Questions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/akarshmi/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/akarshmi/LeetCode-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/akarshmi/LeetCode-Questions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/akarshmi/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/akarshmi/LeetCode-Questions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/akarshmi/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -96,5 +98,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/akarshmi/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/akarshmi/LeetCode-Questions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
