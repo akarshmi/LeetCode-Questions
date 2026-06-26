@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/akarshmi/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/akarshmi/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akarshmi/LeetCode-Questions/tree/master/0011-container-with-most-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/akarshmi/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/akarshmi/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/akarshmi/LeetCode-Questions/tree/master/0414-third-maximum-number) |
 ## Two Pointers
