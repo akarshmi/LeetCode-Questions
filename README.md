@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/akarshmi/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akarshmi/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/akarshmi/LeetCode-Questions/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/akarshmi/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/akarshmi/LeetCode-Questions/tree/master/0414-third-maximum-number) |
 | [0692-top-k-frequent-words](https://github.com/akarshmi/LeetCode-Questions/tree/master/0692-top-k-frequent-words) |
 ## Two Pointers
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/akarshmi/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/akarshmi/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/akarshmi/LeetCode-Questions/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/akarshmi/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/akarshmi/LeetCode-Questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akarshmi/LeetCode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 ## Greedy
