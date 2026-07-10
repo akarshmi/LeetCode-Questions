@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/akarshmi/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/akarshmi/LeetCode-Questions/tree/master/0414-third-maximum-number) |
 | [0692-top-k-frequent-words](https://github.com/akarshmi/LeetCode-Questions/tree/master/0692-top-k-frequent-words) |
+| [0735-asteroid-collision](https://github.com/akarshmi/LeetCode-Questions/tree/master/0735-asteroid-collision) |
 ## Two Pointers
 |  |
 | ------- |
@@ -121,4 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/akarshmi/LeetCode-Questions/tree/master/0692-top-k-frequent-words) |
+## Stack
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/akarshmi/LeetCode-Questions/tree/master/0735-asteroid-collision) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/akarshmi/LeetCode-Questions/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
