@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/akarshmi/LeetCode-Questions/tree/master/0050-powx-n) |
+| [0096-unique-binary-search-trees](https://github.com/akarshmi/LeetCode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/akarshmi/LeetCode-Questions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/akarshmi/LeetCode-Questions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/akarshmi/LeetCode-Questions/tree/master/0231-power-of-two) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/akarshmi/LeetCode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akarshmi/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/akarshmi/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akarshmi/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/akarshmi/LeetCode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/akarshmi/LeetCode-Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/akarshmi/LeetCode-Questions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akarshmi/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akarshmi/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/akarshmi/LeetCode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/akarshmi/LeetCode-Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/akarshmi/LeetCode-Questions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akarshmi/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/akarshmi/LeetCode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0450-delete-node-in-a-bst](https://github.com/akarshmi/LeetCode-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/akarshmi/LeetCode-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/akarshmi/LeetCode-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
