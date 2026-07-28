@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/akarshmi/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akarshmi/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/akarshmi/LeetCode-Questions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/akarshmi/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/akarshmi/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/akarshmi/LeetCode-Questions/tree/master/0414-third-maximum-number) |
 | [0692-top-k-frequent-words](https://github.com/akarshmi/LeetCode-Questions/tree/master/0692-top-k-frequent-words) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/akarshmi/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/akarshmi/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/akarshmi/LeetCode-Questions/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/akarshmi/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/akarshmi/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/akarshmi/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/akarshmi/LeetCode-Questions/tree/master/0389-find-the-difference) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/akarshmi/LeetCode-Questions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/akarshmi/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/akarshmi/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/akarshmi/LeetCode-Questions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/akarshmi/LeetCode-Questions/tree/master/0414-third-maximum-number) |
