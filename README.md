@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/akarshmi/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/akarshmi/LeetCode-Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/akarshmi/LeetCode-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3875-construct-uniform-parity-array-i](https://github.com/akarshmi/LeetCode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/akarshmi/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/akarshmi/LeetCode-Questions/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/akarshmi/LeetCode-Questions/tree/master/0735-asteroid-collision) |
+| [3875-construct-uniform-parity-array-i](https://github.com/akarshmi/LeetCode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
