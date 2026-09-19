@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/akarshmi/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/akarshmi/LeetCode-Questions/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/akarshmi/LeetCode-Questions/tree/master/0735-asteroid-collision) |
+| [0881-boats-to-save-people](https://github.com/akarshmi/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
 | [3875-construct-uniform-parity-array-i](https://github.com/akarshmi/LeetCode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -67,10 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/akarshmi/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/akarshmi/LeetCode-Questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akarshmi/LeetCode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0881-boats-to-save-people](https://github.com/akarshmi/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akarshmi/LeetCode-Questions/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/akarshmi/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
 ## String
 |  |
 | ------- |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/akarshmi/LeetCode-Questions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/akarshmi/LeetCode-Questions/tree/master/0414-third-maximum-number) |
 | [0692-top-k-frequent-words](https://github.com/akarshmi/LeetCode-Questions/tree/master/0692-top-k-frequent-words) |
+| [0881-boats-to-save-people](https://github.com/akarshmi/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
 ## Counting
 |  |
 | ------- |
@@ -275,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akarshmi/LeetCode-Questions/tree/master/0020-valid-parentheses) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/akarshmi/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
