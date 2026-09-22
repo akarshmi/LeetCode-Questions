@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/akarshmi/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/akarshmi/LeetCode-Questions/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/akarshmi/LeetCode-Questions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/akarshmi/LeetCode-Questions/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/akarshmi/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
 | [3875-construct-uniform-parity-array-i](https://github.com/akarshmi/LeetCode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/akarshmi/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akarshmi/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0735-asteroid-collision](https://github.com/akarshmi/LeetCode-Questions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/akarshmi/LeetCode-Questions/tree/master/0739-daily-temperatures) |
 ## Simulation
 |  |
 | ------- |
@@ -283,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/akarshmi/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/akarshmi/LeetCode-Questions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
