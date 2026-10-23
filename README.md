@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/akarshmi/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/akarshmi/LeetCode-Questions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akarshmi/LeetCode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/akarshmi/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/akarshmi/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/akarshmi/LeetCode-Questions/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/akarshmi/LeetCode-Questions/tree/master/0735-asteroid-collision) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/akarshmi/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/akarshmi/LeetCode-Questions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akarshmi/LeetCode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/akarshmi/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/akarshmi/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/akarshmi/LeetCode-Questions/tree/master/0692-top-k-frequent-words) |
 ## Divide and Conquer
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/akarshmi/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akarshmi/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akarshmi/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/akarshmi/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/akarshmi/LeetCode-Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/akarshmi/LeetCode-Questions/tree/master/0739-daily-temperatures) |
 ## Simulation
@@ -292,5 +295,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/akarshmi/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/akarshmi/LeetCode-Questions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
