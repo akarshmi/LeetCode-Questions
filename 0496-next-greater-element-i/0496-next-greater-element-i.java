@@ -1,18 +1,23 @@
 import java.util.*;
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
-        Map<Integer, Integer> map = new HashMap<>();
-        Stack<Integer> stack = new Stack<>();
-        for (int num : nums2) {
-            while (!stack.isEmpty() && stack.peek() < num) {
-                map.put(stack.pop(), num);
+
+        Map<Integer, Integer> map =  new HashMap<>();
+        ArrayDeque<Integer> st =  new ArrayDeque<>();
+
+        for(int x : nums2){
+            while(!st.isEmpty() && st.peek()<x){
+                map.put(st.pop(),x);
             }
-            stack.push(num);
+            st.push(x);
         }
+
         int[] result = new int[nums1.length];
-        for (int i = 0; i < nums1.length; i++) {
-            result[i] = map.getOrDefault(nums1[i], -1);
+        for(int i = 0; i<nums1.length; i++){
+            result[i] = map.getOrDefault(nums1[i],-1);
         }
+
         return result;
+
     }
 }
